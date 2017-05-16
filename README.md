@@ -10,7 +10,7 @@ Basic template application for Android projects, containing parts of code which 
 
   `///<FIREBASE`
 
- * WiFI
+ * WiFi
  
   `///>WIFI`
 
