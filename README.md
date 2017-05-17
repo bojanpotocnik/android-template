@@ -2,19 +2,13 @@
 Basic template application for Android projects, containing parts of code which are frequently reused.
 
 
-**If not using certain functionality, delete everything between (inclusive) appropriate comments.**
-
- * Firebase
+If not using certain functionality, delete everything between (inclusive) appropriate comments.
  
-  `///>FIREBASE`
+  `//template-FUNCTIONALITY_NAME`
 
-  `///<FIREBASE`
+  `//endtemplate-FUNCTIONALITY_NAME`
 
- * WiFi
- 
-  `///>WIFI`
-
-  `///<WIFI`
-
-
-
+Where `FUNCTIONALITY_NAME` can be any of the following:
+* `FIREBASE`
+* `WIFI`
+* `BLE`
